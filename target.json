@@ -4,5 +4,11 @@
   },
   "webadmin": {
     "username": "administrator",
-    "password": "root"}
+    "password": "root"
+  },
+  "ftp": {
+    "host": "localhost",
+    "username": "mantis",
+    "password": "mantis"
+  }
 }
